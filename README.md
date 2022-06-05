@@ -72,7 +72,4 @@ Default web root:
 ```
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
-### Test Result
- 1 push failed. some kinda config error 
- 2 looking into now 
- 3 2nd push pending...
+### It worked!!
